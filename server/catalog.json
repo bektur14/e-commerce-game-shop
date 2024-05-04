@@ -1,0 +1,62 @@
+[
+    {
+       "id":"el1",
+       "name":"Mortal Kombat X",
+       "img":"https://steammachine.ru/slider/1790820-339x194.webp",
+       "price":"299"
+    },
+    {
+       "id":"el2",
+       "name":"Remnant II",
+       "img":"https://steammachine.ru/slider/4018222-462x264.webp",
+       "price":"2699"
+    },
+    {
+       "id":"el3",
+       "name":"Spider-Man: Miles Morales",
+       "img":"https://steammachine.ru/slider/3538075-462x264.webp",
+       "price":"1999"
+    },
+    {
+       "id":"el4",
+       "name":"Avatar: Frontiers of Pandora ",
+       "img":"https://steammachine.ru/slider/4047278-462x264.webp",
+       "price":"64990"
+    },
+    {
+       "id":"el5",
+       "name":"Cyberpunk 2077",
+       "img":"https://steammachine.ru/slider/2671679-339x194.webp",
+       "price":"3499"
+    },
+    {
+       "id":"el6",
+       "name":"GTA V",
+       "img":"https://steammachine.ru/slider/2653391-339x194.jpg",
+       "price":"1199"
+    },
+    {
+       "id":"el7",
+       "name":"Watch Dogs: Legion",
+       "img":"https://steammachine.ru/slider/3543192-462x264.webp",
+       "price":"999"
+    },
+    {
+       "id":"el8",
+       "name":"Fallout: New Vegas",
+       "img":"https://steammachine.ru/slider/1338013-462x264.webp",
+       "price":"59"
+    },
+    {
+       "id":"el9",
+       "name":"Hitman Absolution",
+       "img":"https://steammachine.ru/slider/1357671-462x264.webp",
+       "price":"99"
+    },
+    {
+       "id":"el10",
+       "name":"Mad Max",
+       "img":"https://steammachine.ru/slider/1763862-462x264.webp",
+       "price":"399"
+    }
+ ]
